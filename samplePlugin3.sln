@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "samplePlugin3", "samplePlugin3.csproj", "{3228F747-1C5B-4935-A1CE-DC128142E9D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3228F747-1C5B-4935-A1CE-DC128142E9D7}.Debug|x64.ActiveCfg = Debug|x64
+		{3228F747-1C5B-4935-A1CE-DC128142E9D7}.Debug|x64.Build.0 = Debug|x64
+		{3228F747-1C5B-4935-A1CE-DC128142E9D7}.Release|x64.ActiveCfg = Release|x64
+		{3228F747-1C5B-4935-A1CE-DC128142E9D7}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AFB2FD4-5872-46AC-B860-A18F3969F34D}
+	EndGlobalSection
+EndGlobal
