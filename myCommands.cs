@@ -78,7 +78,7 @@ namespace KeepAttributesHorizontal
         }
 
         
-        //  DISABLE COMMAND
+        //  DISABLE COMMAND keepstraight
         
         [CommandMethod("KeepStraightOff")]
         public static void DisableKeepStraight()
